@@ -1,2 +1,2 @@
-# mcu-hardware
+# MCU Hardware Reference
  
